@@ -27,15 +27,18 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
+# Main Research Interests
 
 # 📝 Selected Publications
+## Conference Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 21</div><img src='images/NeurIPS21_ST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan.[Towards Enabling Meta-Learning from Target Models](https://www.lamda.nju.edu.cn/lus/files/NeurIPS21_ST.pdf).In: Advances in Neural Information Processing Systems 34 (NeurIPS'21), online, 2021.
+</div>
+</div>
 
-</div>
-</div>
+## Journal Publications
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
