@@ -38,6 +38,7 @@ Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan.[Towards Enabling Meta-Learning fro
 </div>
 - Xin-Chun Li , Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. Avoid Overfitting User Specific Information in Federated Keyword Spotting. In: Proceedings of the 23rd INTERSPEECH Conference (INTERSPEECH'2022), online conference, Songdo ConvensiA, Incheon, Korea, 2022.
 
+- Xin-Chun Li , Yan-Jia Wang, **Le Gan**, De-Chuan Zhan. Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling. In: Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'2022), online conference, Singapore, 2022.  
 
 ## Journal Publications
 
