@@ -29,13 +29,15 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 # Main Research Interests
 
-# 📝 Selected Publications
+# Selected Publications
 ## Conference Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 21</div><img src='images/NeurIPS21_ST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan.[Towards Enabling Meta-Learning from Target Models](https://www.lamda.nju.edu.cn/lus/files/NeurIPS21_ST.pdf).In: Advances in Neural Information Processing Systems 34 (NeurIPS'21), online, 2021.
 </div>
 </div>
+- Xin-Chun Li , Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. Avoid Overfitting User Specific Information in Federated Keyword Spotting. In: Proceedings of the 23rd INTERSPEECH Conference (INTERSPEECH'2022), online conference, Songdo ConvensiA, Incheon, Korea, 2022.
+
 
 ## Journal Publications
 
