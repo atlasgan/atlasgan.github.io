@@ -19,8 +19,9 @@ redirect_from:
 
 ** received his Ph.D. degree in Geography from Nanjing University in 2018, and then serviced in the Department of Computer Science and Technology of Nanjing University as an Assistant Researcher from 2018, and as an Associate Researcher from 2021. His research interests mainly include machine learning and remote sensing image intelligent processing, especially working on meta learning, knowledge distillation, hyperspectral imaging, etc. Up until now, he has published over 20 papers in national and international journals or conferences such as TGRS, JSTARS, GRSL, NIPS, ICASSP, Interspeech, etc.
 
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
