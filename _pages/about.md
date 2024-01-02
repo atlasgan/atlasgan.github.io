@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+% - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 # 💬 Invited Talks
@@ -62,4 +62,4 @@ My research interest includes neural machine translation and computer vision. I 
 - Office: Room A201, ** Building, Xianlin Campus of Nanjing University
 - Address: National Key Laboratory for Novel Software Technology\
                  Nanjing University, Xianlin Campus\
-                 163 Xianlin Avenue, Qixia District, Nanjing 210023, China\
+                 163 Xianlin Avenue, Qixia District, Nanjing 210023, China
