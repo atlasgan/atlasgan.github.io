@@ -22,7 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Le Gan"
+<<<<<<< HEAD
   avatar           : "images/android-chrome-5.png"
+=======
+  avatar           : "images/android-chrome.png"
+>>>>>>> 28e72eef9000c6cd9029ff8970063c1d0840ea85
   bio              : "Nanjing University"
   location         : "Nanjing, China"
   employer         :
