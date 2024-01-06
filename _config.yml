@@ -4,36 +4,32 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+# https://github.com/RayeRen/RayeRen
 # Site Settings
-title                    : "Le Gan"
-description              : "  nan  "
-repository               : "atlasgan/atlasgan.github.io"
+title                    : "Yi Ren (任意)"
+description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
+repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : G-SWFCX99KQZ
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
+bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
+baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Le Gan"
-<<<<<<< HEAD
-  avatar           : "images/android-chrome-5.png"
-=======
-  avatar           : "images/android-chrome.png"
->>>>>>> 28e72eef9000c6cd9029ff8970063c1d0840ea85
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  name             : "Yi Ren (任意)"
+  avatar           : "images/ry_profile.jpeg"
+  bio              : "Bytedance AI Lab"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cCD5SDoAAAAJ"
-  email            : "ganleatlas@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Le-Gan-2"
+  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  email            : "rayeren613@gmail.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -41,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "atlasgan"
+  github           : "RayeRen"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.uni-trier.de/pid/199/0588.html" 
-  orcid            : "https://orcid.org/0000-0002-8260-6932"
+  linkedin         : "rayeren"
+  dblp             : "https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -69,15 +65,12 @@ include:
   - _pages
   - files
 exclude:
-  - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -95,6 +88,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - google_scholar_crawler
+  - github_myprofile_updater
 keep_files:
   - .git
   - .svn
