@@ -19,6 +19,7 @@
 - Le Gan, Junshi Xia, Peijun Du, and Jocelyn Chanussot, Multiple Feature Kernel Sparse Representation Classifier for Hyperspectral Imagery, IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(9): 5343-5356.
 - Le Gan, Junshi Xia, Peijun Du, and Jocelyn Chanussot, Class-oriented Weighted Kernel Sparse Representation with Region-level Kernel for Hyperspectral Imagery Classification, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018, 11(4): 1118-1130.
 - Peijun Du, Le Gan, Junshi Xia, and Daming Wang, Multikernel Adaptive Collaborative Representation for Hyperspectral Image Classification, IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(8): 4664-4677.
+- Zhigang Xu, Jike Chen, Junshi Xia, Peijun Du, Hongrui Zheng, Le Gan. Multisource Earth Observation Data for Land-Cover Classification Using Random Forest. IEEE Geoscience and Remote Sensing Letters. 15(5): 789-793 (2018)
 - Yeting Fan, Xiaobin Jin, Le Gan, Laura H.Jessup, Bryan C.Pijanowski, Xuhong Yang, Xiaomin Xiang, Yinkang Zhou. Spatial identification and dynamic analysis of land use functions reveals distinct zones of multiple functions in eastern China. Science of the Total Environment, 2018, 642, 33-44.
 - Yeting Fan, Xiaobin Jin, Xiaomin Xiang, Le Gan, Xuhong Yang, Zhihong Zhang, Yinkang Zhou. Evaluating and predicting the effectiveness of farmland consolidation on improving agricultural productivity in China. Plos One, 2018
 
