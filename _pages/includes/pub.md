@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# Publications 
 
 ### 2023
 
