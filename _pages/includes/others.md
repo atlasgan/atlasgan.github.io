@@ -9,5 +9,3 @@
 # 💻 Internships
 
 - *2021.06 - 2021.09*, Alibaba, Hangzhou.
-
-# Correspondence
