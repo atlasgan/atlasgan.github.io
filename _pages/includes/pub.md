@@ -13,6 +13,7 @@
 
 - Su Lu, Han-Jia Ye, Le Gan, De-Chuan Zhan. Towards Enabling Meta-Learning from Target Models. In: Advances in Neural Information Processing Systems 34 (NeurIPS'21), online, 2021.
 - Yeting Fan, Le Gan, Changqiao Hong, Laura H.Jessup, Xiaobin Jin, Bryan C.Pijanowski, Yan Sun, Ligang Lv. Spatial identification and determinants of trade-offs among multiple land use functions in Jiangsu Province, China. Science of the Total Environment, 2021, 772, 145022.
+- Xin-Chun Li, Le Gan, De-Chuan Zhan, Yunfeng Shao, Bingshuai Li, Shaoming Song. Aggregate or Not? Exploring Where to Privatize in DNN Based Federated Learning Under Different Non-IID Scenes. CoRR abs/2107.11954 (2021)
 
 ### 2018
 
