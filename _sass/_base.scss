@@ -10,10 +10,11 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 0em;
+  padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  // font-size: $type-size-2;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -22,28 +23,27 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 1em 0 0.5em;
+  margin: 0.5em 0 0.25em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
 }
 
 h1 {
-  // margin: 4em 0 0.5em;
-  margin-top: 1em;
-  font-size: $type-size-3;
+  margin-top: 0;
+  font-size: $type-size-2;
 }
 
 h2 {
-  font-size: $type-size-4;
+  font-size: $type-size-3;
 }
 
 h3 {
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 h4 {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 h5 {
@@ -51,15 +51,15 @@ h5 {
 }
 
 h6 {
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 }
 
 small, .small {
-  font-size: $type-size-6;
+  font-size: $type-size-8;
 }
 
 p {
-  margin-bottom: 0.5em;
+  margin-bottom: 1.3em;
 }
 
 u,
@@ -69,11 +69,6 @@ ins {
   a {
     color: inherit;
   }
-}
-
-ul {
-  padding-inline-start: 2em;
-  margin-block-start: 0.5em;
 }
 
 del a {
@@ -118,7 +113,6 @@ blockquote {
 /* links */
 
 a {
-  
   &:focus {
     @extend %tab-focus;
   }
