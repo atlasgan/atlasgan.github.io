@@ -12,9 +12,9 @@ main:
   - title: "Honors and Awards"
     url: "/honors-and-awards"
 
-  - title: "Correspondence"
-    url: "/correspondence"
-
+  # - title: "Correspondence"
+  #   url: "/correspondence" 
+  
   # - title: "Educations"
   #   url: "/#-educations"
 
