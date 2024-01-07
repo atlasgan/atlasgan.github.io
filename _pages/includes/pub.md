@@ -11,13 +11,15 @@
 ### 2021
 
 - Su Lu, Han-Jia Ye, Le Gan, De-Chuan Zhan. Towards Enabling Meta-Learning from Target Models. In: Advances in Neural Information Processing Systems 34 (NeurIPS'21), online, 2021.
-- Fan, Y. , Gan, L. , Hong, C. , Jessup, L. H. , & Lv, L. . (2021). Spatial identification and determinants of trade-offs among multiple land use functions in jiangsu province, china. Science of The Total Environment
+- Yeting Fan, Le Gan, Changqiao Hong, Laura H.Jessup, Xiaobin Jin, Bryan C.Pijanowski, Yan Sun, Ligang Lv. Spatial identification and determinants of trade-offs among multiple land use functions in Jiangsu Province, China. Science of the Total Environment, 2021, 772, 145022.
 
 ### 2018
 
 - Le Gan, Junshi Xia, Peijun Du, and Jocelyn Chanussot, Multiple Feature Kernel Sparse Representation Classifier for Hyperspectral Imagery, IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(9): 5343-5356.
 - Le Gan, Junshi Xia, Peijun Du, and Jocelyn Chanussot, Class-oriented Weighted Kernel Sparse Representation with Region-level Kernel for Hyperspectral Imagery Classification, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018, 11(4): 1118-1130.
 - Peijun Du, Le Gan, Junshi Xia, and Daming Wang, Multikernel Adaptive Collaborative Representation for Hyperspectral Image Classification, IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(8): 4664-4677.
+- Yeting Fan, Xiaobin Jin, Le Gan, Laura H.Jessup, Bryan C.Pijanowski, Xuhong Yang, Xiaomin Xiang, Yinkang Zhou. Spatial identification and dynamic analysis of land use functions reveals distinct zones of multiple functions in eastern China. Science of the Total Environment, 2018, 642, 33-44.
+- Yeting Fan, Xiaobin Jin, Xiaomin Xiang, Le Gan, Xuhong Yang, Zhihong Zhang, Yinkang Zhou. Evaluating and predicting the effectiveness of farmland consolidation on improving agricultural productivity in China. Plos One, 2018
 
 ### 2017
 
