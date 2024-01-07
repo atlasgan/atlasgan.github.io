@@ -1,11 +1,9 @@
 # Publications
 
 ### 2023
-
-- Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, Le Gan, De-Chuan Zhan. Avoid Overfitting User Specific Information in Federated Keyword Spotting. In: Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22), Incheon, Korea. 2022.
+- Jia-Qi Yang, De-Chuan Zhan, Le Gan. Beyond Probability Partitions: Calibrating Neural Networks with Semantic Aware Grouping, Neural Information Processing Systems (NeurIPS), 2023
 
 ### 2022
-
 - Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, Le Gan, De-Chuan Zhan. Avoid Overfitting User Specific Information in Federated Keyword Spotting. In: Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22), Incheon, Korea. 2022.
 - Xin-Chun Li, Yan-Jia Wang, Le Gan, De-Chuan Zhan. Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling. In: Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'2022). online conference, Singapore, 2022.
 - Yeting Fan, Xiaobin Jin, Le Gan, Laura H Jessup, Bryan C Pijanowski, Jinhuang Lin, Qingke Yang, Ligang Lyu. Dynamics of spatial associations among multiple land use functions and their driving mechanisms: A case study of the Yangtze River Delta Region, China. Environmental Impact Assessment Review
