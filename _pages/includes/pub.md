@@ -1,6 +1,5 @@
 
 # Publications 
-
 ### 2023
 - ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
 ### 2022
