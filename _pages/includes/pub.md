@@ -19,7 +19,7 @@
 
 - **Le Gan**, Junshi Xia, Peijun Du, and Zhigang Xu, [Dissimilarity-Weighted Sparse Representation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/8038240), IEEE Geoscience and Remote Sensing Letters, 2017, 14(11): 1968-1972. DOI:10.1109/LGRS.2017.2743742. [Paper] ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/LGRS.2017.2743742)
 
-- Yeting Fan, Xiaobin Jin, **Le Gan**, Qingke Yang, Linzhi Wang, Ligang Lyu, Ying Li. Exploring an integrated framework for “dynamic-mechanism-clustering” of multiple cultivated land functions in the Yangtze River Delta region. Applied Geography, 2023
+- Yeting Fan, Xiaobin Jin, **Le Gan**, Qingke Yang, Linzhi Wang, Ligang Lyu, Ying Li. [Exploring an integrated framework for “dynamic-mechanism-clustering” of multiple cultivated land functions in the Yangtze River Delta region](https://www.sciencedirect.com/science/article/abs/pii/S0143622823001923). Applied Geography, 2023, 159, 103061. DOI:10.1016/j.apgeog.2023.103061. [Paper] ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.apgeog.2023.103061)  
 
 - Yeting Fan, Xiaobin Jin, **Le Gan**, Laura H Jessup, Bryan C Pijanowski, Jinhuang Lin, Qingke Yang, Ligang Lyu. [Dynamics of spatial associations among multiple land use functions and their driving mechanisms: A case study of the Yangtze River Delta region, China](https://www.sciencedirect.com/science/article/pii/S019592552200124X). Environmental Impact Assessment Review, 2022, 97, 106858. DOI:10.1016/j.eiar.2022.106858. [Paper] ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.eiar.2022.106858)  
 
