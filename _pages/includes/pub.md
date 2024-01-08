@@ -25,7 +25,7 @@
 
 - Yeting Fan, **Le Gan**, Changqiao Hong, Laura H.Jessup, Xiaobin Jin, Bryan C.Pijanowski, Yan Sun, Ligang Lv. [Spatial identification and determinants of trade-offs among multiple land use functions in Jiangsu Province, China](https://www.sciencedirect.com/science/article/pii/S0048969721000887). Science of the Total Environment, 2021, 772, 145022. DOI:10.1016/j.scitotenv.2021.145022. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.scitotenv.2021.145022) 
   
-- Zhigang Xu, Jike Chen, Junshi Xia, Peijun Du, Hongrui Zheng, **Le Gan**. [Multisource Earth Observation Data for Land-Cover Classification Using Random Forest](https://ieeexplore.ieee.org/document/8307087). IEEE Geoscience and Remote Sensing Letters. 2018, 15(5): 789-793. DOI:10.1109/LGRS.2018.2806223.  
+- Zhigang Xu, Jike Chen, Junshi Xia, Peijun Du, Hongrui Zheng, **Le Gan**. [Multisource Earth Observation Data for Land-Cover Classification Using Random Forest](https://ieeexplore.ieee.org/document/8307087). IEEE Geoscience and Remote Sensing Letters. 2018, 15(5): 789-793. DOI:10.1109/LGRS.2018.2806223. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/LGRS.2018.2806223) 
   
 - Yeting Fan, Xiaobin Jin, **Le Gan**, Laura H.Jessup, Bryan C.Pijanowski, Xuhong Yang, Xiaomin Xiang, Yinkang Zhou. [Spatial identification and dynamic analysis of land use functions reveals distinct zones of multiple functions in eastern China](https://www.sciencedirect.com/science/article/pii/S0048969718320400). Science of the Total Environment, 2018, 642, 33-44. DOI:10.1016/j.scitotenv.2018.05.383. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.scitotenv.2018.05.383) 
 
