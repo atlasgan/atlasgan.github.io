@@ -16,7 +16,8 @@
 - Le Gan, Junshi Xia, Peijun Du, and Jocelyn Chanussot, Class-oriented Weighted Kernel Sparse Representation with Region-level Kernel for Hyperspectral Imagery Classification, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018, 11(4): 1118-1130.
 - Peijun Du, **Le Gan**, Junshi Xia, Daming Wang, [Multikernel Adaptive Collaborative Representation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/8372967), IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(8): 4664-4677. DOI:10.1109/TGRS.2018.2833882. [Paper]
 - Zhigang Xu, Jike Chen, Junshi Xia, Peijun Du, Hongrui Zheng, **Le Gan**. [Multisource Earth Observation Data for Land-Cover Classification Using Random Forest](https://ieeexplore.ieee.org/document/8307087). IEEE Geoscience and Remote Sensing Letters. 2018, 15(5): 789-793. DOI:10.1109/LGRS.2018.2806223. [Paper]
-- Yeting Fan, Xiaobin Jin, Le Gan, Laura H.Jessup, Bryan C.Pijanowski, Xuhong Yang, Xiaomin Xiang, Yinkang Zhou. Spatial identification and dynamic analysis of land use functions reveals distinct zones of multiple functions in eastern China. Science of the Total Environment, 2018, 642, 33-44.
+  
+- Yeting Fan, Xiaobin Jin, **Le Gan**, Laura H.Jessup, Bryan C.Pijanowski, Xuhong Yang, Xiaomin Xiang, Yinkang Zhou. Spatial identification and dynamic analysis of land use functions reveals distinct zones of multiple functions in eastern China. Science of the Total Environment, 2018, 642, 33-44.
 
 - Yeting Fan, Xiaobin Jin, Xiaomin Xiang, **Le Gan**, Xuhong Yang, Zhihong Zhang, Yinkang Zhou. Evaluating and predicting the effectiveness of farmland consolidation on improving agricultural productivity in China. Plos One, 2018
 
