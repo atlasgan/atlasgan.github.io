@@ -1,4 +1,4 @@
-# Publications [[Google Scholar]](https://scholar.google.com/citations?user=cCD5SDoAAAAJ)
+# Publications [[Google Scholar]](https://scholar.google.com/citations?user=cCD5SDoAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pid/199/0588.html)
 
 ## Conference Publications
 
