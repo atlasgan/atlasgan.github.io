@@ -11,7 +11,9 @@
 
 - Yeting Fan, Xiaobin Jin, **Le Gan**, Qingke Yang, Linzhi Wang, Ligang Lyu, Ying Li. Exploring an integrated framework for “dynamic-mechanism-clustering” of multiple cultivated land functions in the Yangtze River Delta region. Applied Geography, 2023
 - Yeting Fan, Xiaobin Jin, Le Gan, Laura H Jessup, Bryan C Pijanowski, Jinhuang Lin, Qingke Yang, Ligang Lyu. Dynamics of spatial associations among multiple land use functions and their driving mechanisms: A case study of the Yangtze River Delta Region, China. Environmental Impact Assessment Review
+
 - Yeting Fan, Le Gan, Changqiao Hong, Laura H.Jessup, Xiaobin Jin, Bryan C.Pijanowski, Yan Sun, Ligang Lv. Spatial identification and determinants of trade-offs among multiple land use functions in Jiangsu Province, China. Science of the Total Environment, 2021, 772, 145022.
+
 - Le Gan, Junshi Xia, Peijun Du, Jocelyn Chanussot, Multiple Feature Kernel Sparse Representation Classifier for Hyperspectral Imagery, IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(9): 5343-5356.
 
 - **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Class-oriented Weighted Kernel Sparse Representation with Region-level Kernel for Hyperspectral Imagery Classification](https://ieeexplore.ieee.org/document/8064738), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018, 11(4): 1118-1130. DOI: 10.1109/JSTARS.2017.2757475. [Paper] ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/JSTARS.2017.2757475)
