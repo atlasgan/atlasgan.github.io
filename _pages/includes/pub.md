@@ -25,4 +25,4 @@
 
 - **Le Gan**, Peijun Du, Junshi Xia, and Yaping Meng, [Kernel Fused Representation-Based Classifier for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/7878546), IEEE Geoscience and Remote Sensing Letters, 2017, 14(5) : 684-688. DOI:10.1109/LGRS.2017.2671852. [Paper] <strong><span class='show_paper_citations' data='cCD5SDoAAAAJ:u5HHmVD_uO8C'></span></strong> 
 
-- **Le Gan**, Junshi Xia, Peijun Du, and Zhigang Xu, [Dissimilarity-Weighted Sparse Representation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/8038240), IEEE Geoscience and Remote Sensing Letters, 2017, 14(11): 1968-1972. DOI:10.1109/LGRS.2017.2743742. [Paper]  
+- **Le Gan**, Junshi Xia, Peijun Du, and Zhigang Xu, [Dissimilarity-Weighted Sparse Representation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/8038240), IEEE Geoscience and Remote Sensing Letters, 2017, 14(11): 1968-1972. DOI:10.1109/LGRS.2017.2743742. [Paper] [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/LGRS.2017.2743742)](https://juleskreuer.eu/projekte/citation-badge/)
