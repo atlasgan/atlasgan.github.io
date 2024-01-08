@@ -2,7 +2,7 @@
 
 ## Conference Publications
 
-- Jia-Qi Yang, De-Chuan Zhan, **Le Gan**. [Beyond Probability Partitions: Calibrating Neural Networks with Semantic Aware Grouping](https://arxiv.org/abs/2306.04985), In: **Advances in Neural Information Processing Systems 36 (NeurIPS'23, CCF-A)**, 2023. [[Paper]](https://www.semanticscholar.org/reader/d9d0dadc3774292500015b4e62678810bdc7e333)
+- Jia-Qi Yang, De-Chuan Zhan, **Le Gan**. [Beyond Probability Partitions: Calibrating Neural Networks with Semantic Aware Grouping](https://arxiv.org/abs/2306.04985), In: **Advances in Neural Information Processing Systems 37 (NeurIPS'23, CCF-A)**, New Orleans, 2023. [[Paper]](https://www.semanticscholar.org/reader/d9d0dadc3774292500015b4e62678810bdc7e333)
 
 - Xin-Chun Li , Yan-Jia Wang, **Le Gan**, De-Chuan Zhan. [Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling](https://ieeexplore.ieee.org/document/9746890). In: **Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'22, CCF-B)**, Virtual, Singapore, 2022.  
   
