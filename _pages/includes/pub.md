@@ -6,10 +6,10 @@
 
 - Xin-Chun Li , Yan-Jia Wang, **Le Gan**, De-Chuan Zhan. Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling. In: **Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'22, CCF-B)**, online conference, Singapore, 2022.  
   
-- Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. Avoid Overfitting User Specific Information in Federated Keyword Spotting. In: **Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22, CCF-C)**, Incheon, Korea. 2022. [[Paper]](https://www.semanticscholar.org/reader/78518cfd3295059519a250938a0c9b0117876ac2) [[code]](https://github.com/lxcnju/FedKWS-UI)  
+- Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. [Avoid Overfitting User Specific Information in Federated Keyword Spotting](https://arxiv.org/abs/2206.08864). In: **Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22, CCF-C)**, Incheon, Korea. 2022. [[Paper]](https://www.semanticscholar.org/reader/78518cfd3295059519a250938a0c9b0117876ac2) [[code]](https://github.com/lxcnju/FedKWS-UI)  
   
-- Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan. [Towards Enabling Meta-Learning from Target Models](https://proceedings.neurips.cc/paper/2021/hash/43baa6762fa81bb43b39c62553b2970d-Abstract.html). In: **Advances in Neural Information Processing Systems 34 (NeurIPS'21, CCF-A)**, 2021: 8060--8071. Virtual. [[Paper]](https://www.semanticscholar.org/reader/9c5caaf7d014d1b1d176258af15bb763d7f62d01) [[code]](https://github.com/njulus/ST) ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.48550/arXiv.2104.03736) 
-
+- Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan. [Towards Enabling Meta-Learning from Target Models](https://proceedings.neurips.cc/paper/2021/hash/43baa6762fa81bb43b39c62553b2970d-Abstract.html). In: **Advances in Neural Information Processing Systems 34 (NeurIPS'21, CCF-A)**, 2021: 8060--8071. Virtual. [[Paper]](https://www.semanticscholar.org/reader/9c5caaf7d014d1b1d176258af15bb763d7f62d01) [[code]](https://github.com/njulus/ST)  
+  
 ## Journal Publications
 
 - **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Multiple Feature Kernel Sparse Representation Classifier for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/8331283), IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(9): 5343-5356. DOI:10.1109/TGRS.2018.2814781. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TGRS.2018.2814781) 
