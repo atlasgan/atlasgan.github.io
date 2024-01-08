@@ -30,5 +30,5 @@
 - Yeting Fan, Xiaobin Jin, **Le Gan**, Laura H.Jessup, Bryan C.Pijanowski, Xuhong Yang, Xiaomin Xiang, Yinkang Zhou. [Spatial identification and dynamic analysis of land use functions reveals distinct zones of multiple functions in eastern China](https://www.sciencedirect.com/science/article/pii/S0048969718320400). Science of the Total Environment, 2018, 642, 33-44. DOI:10.1016/j.scitotenv.2018.05.383. [Paper] ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.scitotenv.2018.05.383) 
 
 
-- Yeting Fan, Xiaobin Jin, Xiaomin Xiang, **Le Gan**, Xuhong Yang, Zhihong Zhang, Yinkang Zhou. Evaluating and predicting the effectiveness of farmland consolidation on improving agricultural productivity in China. Plos One, 2018
-
+- Yeting Fan, Xiaobin Jin, Xiaomin Xiang, **Le Gan**, Xuhong Yang, Zhihong Zhang, Yinkang Zhou. [Evaluating and predicting the effectiveness of farmland consolidation on improving agricultural productivity in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198171). Plos One, 2018, 13(6). DOI:10.1371/journal.pone.0198171. [Paper] ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1371/journal.pone.0198171) 
+  
