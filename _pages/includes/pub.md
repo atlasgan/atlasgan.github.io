@@ -16,7 +16,8 @@
 
 - **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Class-oriented Weighted Kernel Sparse Representation with Region-level Kernel for Hyperspectral Imagery Classification](https://ieeexplore.ieee.org/document/8064738), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018, 11(4): 1118-1130. DOI: 10.1109/JSTARS.2017.2757475. [Paper] ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/JSTARS.2017.2757475)
 
-- Peijun Du, **Le Gan**, Junshi Xia, Daming Wang, [Multikernel Adaptive Collaborative Representation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/8372967), IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(8): 4664-4677. DOI:10.1109/TGRS.2018.2833882. [Paper]
+- Peijun Du, **Le Gan**, Junshi Xia, Daming Wang, [Multikernel Adaptive Collaborative Representation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/8372967), IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(8): 4664-4677. DOI:10.1109/TGRS.2018.2833882. [Paper] ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TGRS.2018.2833882) 
+
   
 - Zhigang Xu, Jike Chen, Junshi Xia, Peijun Du, Hongrui Zheng, **Le Gan**. [Multisource Earth Observation Data for Land-Cover Classification Using Random Forest](https://ieeexplore.ieee.org/document/8307087). IEEE Geoscience and Remote Sensing Letters. 2018, 15(5): 789-793. DOI:10.1109/LGRS.2018.2806223. [Paper]
   
