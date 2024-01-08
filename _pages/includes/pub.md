@@ -6,7 +6,7 @@
 
 - Xin-Chun Li , Yan-Jia Wang, **Le Gan**, De-Chuan Zhan. Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling. In: **Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022)**, online conference, Singapore, 2022. [paper] (CCF-B会议)
   
-- Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. Avoid Overfitting User Specific Information in Federated Keyword Spotting. In: **Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22)**, Incheon, Korea. 2022. [[Paper]]() [[code]](https://github.com/lxcnju/FedKWS-UI) (CCF-C会议)
+- Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. Avoid Overfitting User Specific Information in Federated Keyword Spotting. In: **Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22)**, Incheon, Korea. 2022. [[Paper]](https://www.semanticscholar.org/reader/78518cfd3295059519a250938a0c9b0117876ac2) [[code]](https://github.com/lxcnju/FedKWS-UI) (CCF-C会议)
   
 - Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan. [Towards Enabling Meta-Learning from Target Models](https://proceedings.neurips.cc/paper/2021/hash/43baa6762fa81bb43b39c62553b2970d-Abstract.html). In: **Advances in Neural Information Processing Systems 34 (NeurIPS 2021)**, 2021: 8060--8071. Virtual. [[Paper]](https://www.semanticscholar.org/reader/9c5caaf7d014d1b1d176258af15bb763d7f62d01) [[code]](https://github.com/njulus/ST) (CCF-A会议)   
 
