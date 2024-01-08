@@ -1,11 +1,14 @@
 # Publications
+
 ## Conference Publications
+
 - Jia-Qi Yang, De-Chuan Zhan, Le Gan. Beyond Probability Partitions: Calibrating Neural Networks with Semantic Aware Grouping, Neural Information Processing Systems (NeurIPS), 2023
 - Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, Le Gan, De-Chuan Zhan. Avoid Overfitting User Specific Information in Federated Keyword Spotting. In: Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22), Incheon, Korea. 2022.
 - Xin-Chun Li, Yan-Jia Wang, Le Gan, De-Chuan Zhan. Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling. In: Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'2022). online conference, Singapore, 2022.
 - Su Lu, Han-Jia Ye, Le Gan, De-Chuan Zhan. Towards Enabling Meta-Learning from Target Models. In: Advances in Neural Information Processing Systems 34 (NeurIPS'21), online, 2021.
 
 ## Journal Publications
+
 - Yeting Fan, Xiaobin Jin, Le Gan, Qingke Yang, Linzhi Wang, Ligang Lyu, Ying Li. Exploring an integrated framework for “dynamic-mechanism-clustering” of multiple cultivated land functions in the Yangtze River Delta region. Applied Geography, 2023
 - Yeting Fan, Xiaobin Jin, Le Gan, Laura H Jessup, Bryan C Pijanowski, Jinhuang Lin, Qingke Yang, Ligang Lyu. Dynamics of spatial associations among multiple land use functions and their driving mechanisms: A case study of the Yangtze River Delta Region, China. Environmental Impact Assessment Review
 - Yeting Fan, Le Gan, Changqiao Hong, Laura H.Jessup, Xiaobin Jin, Bryan C.Pijanowski, Yan Sun, Ligang Lv. Spatial identification and determinants of trade-offs among multiple land use functions in Jiangsu Province, China. Science of the Total Environment, 2021, 772, 145022.
