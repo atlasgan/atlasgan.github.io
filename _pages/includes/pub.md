@@ -8,11 +8,11 @@
   
 - Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. [Avoid Overfitting User Specific Information in Federated Keyword Spotting](https://arxiv.org/abs/2206.08864). In: **Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22, CCF-C)**, Incheon, Korea. 2022. [[Paper]](https://www.semanticscholar.org/reader/78518cfd3295059519a250938a0c9b0117876ac2) [[code]](https://github.com/lxcnju/FedKWS-UI)  
   
-- Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan. [Towards Enabling Meta-Learning from Target Models](https://proceedings.neurips.cc/paper/2021/hash/43baa6762fa81bb43b39c62553b2970d-Abstract.html). In: **Advances in Neural Information Processing Systems 34 (NeurIPS'21, CCF-A)**, Virtual, 2021. [[Paper]](https://www.semanticscholar.org/reader/9c5caaf7d014d1b1d176258af15bb763d7f62d01) [[code]](https://github.com/njulus/ST)  
-  
+- Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan. [Towards Enabling Meta-Learning from Target Models](https://proceedings.neurips.cc/paper/2021/hash/43baa6762fa81bb43b39c62553b2970d-Abstract.html). In: **Advances in Neural Information Processing Systems 34 (NeurIPS'21, CCF-A)**, Virtual, 2021. [[Paper]](https://www.semanticscholar.org/reader/9c5caaf7d014d1b1d176258af15bb763d7f62d01) [[code]](https://github.com/njulus/ST) 
+
 ## Journal Publications
 
-- **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Multiple Feature Kernel Sparse Representation Classifier for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/8331283), ****IEEE Transactions on Geoscience and Remote Sensing**, 2018, 56(9): 5343-5356. DOI:10.1109/TGRS.2018.2814781. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TGRS.2018.2814781) 
+- **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Multiple Feature Kernel Sparse Representation Classifier for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/8331283), **IEEE Transactions on Geoscience and Remote Sensing**, 2018, 56(9): 5343-5356. DOI:10.1109/TGRS.2018.2814781. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TGRS.2018.2814781) 
 
 - **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Class-oriented Weighted Kernel Sparse Representation with Region-level Kernel for Hyperspectral Imagery Classification](https://ieeexplore.ieee.org/document/8064738), **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2018, 11(4): 1118-1130. DOI: 10.1109/JSTARS.2017.2757475. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/JSTARS.2017.2757475)
 
