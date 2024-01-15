@@ -4,7 +4,7 @@
 
 - Jia-Qi Yang, De-Chuan Zhan, **Le Gan**. [Beyond Probability Partitions: Calibrating Neural Networks with Semantic Aware Grouping](https://arxiv.org/abs/2306.04985), In: **Advances in Neural Information Processing Systems 36 (NeurIPS'23, CCF-A)**, New Orleans, LA, 2023. [[Paper]](https://www.semanticscholar.org/reader/d9d0dadc3774292500015b4e62678810bdc7e333)
 
-- Xin-Chun Li , Yan-Jia Wang, **Le Gan**, De-Chuan Zhan. [Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling](https://ieeexplore.ieee.org/document/9746890). In: **Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'22, CCF-B)**, Virtual, Singapore, 2022.  
+- Xin-Chun Li , Yan-Jia Wang, **Le Gan**, De-Chuan Zhan. [Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling](https://ieeexplore.ieee.org/document/9746890). In: **Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'22, CCF-B)**, Virtual, Singapore, 2022. [[Paper]](https://github.com/atlasgan/atlasgan.github.io/blob/main/paper/ICASSP-22.pdf)
   
 - Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. [Avoid Overfitting User Specific Information in Federated Keyword Spotting](https://arxiv.org/abs/2206.08864). In: **Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22, CCF-C)**, Incheon, Korea. 2022. [[Paper]](https://www.semanticscholar.org/reader/78518cfd3295059519a250938a0c9b0117876ac2) [[code]](https://github.com/lxcnju/FedKWS-UI)  
 
