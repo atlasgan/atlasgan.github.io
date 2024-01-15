@@ -8,7 +8,8 @@
   
 - Xin-Chun Li, Jin-Lin Tang, Shaoming Song, Bingshuai Li, Yinchuan Li, Yunfeng Shao, **Le Gan**, De-Chuan Zhan. [Avoid Overfitting User Specific Information in Federated Keyword Spotting](https://arxiv.org/abs/2206.08864). In: **Proceedings of the 2022 Conference of the International Speech Communication Association (Interspeech'22, CCF-C)**, Incheon, Korea. 2022. [[Paper]](https://www.semanticscholar.org/reader/78518cfd3295059519a250938a0c9b0117876ac2) [[code]](https://github.com/lxcnju/FedKWS-UI)  
 
-- Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan. [Towards Enabling Meta-Learning from Target Models](https://proceedings.neurips.cc/paper/2021/hash/43baa6762fa81bb43b39c62553b2970d-Abstract.html). In: **Advances in Neural Information Processing Systems 34 (NeurIPS'21, CCF-A)**, Virtual, 2021. [[Paper]](https://www.semanticscholar.org/reader/9c5caaf7d014d1b1d176258af15bb763d7f62d01) [[code]](https://github.com/njulus/ST) 
+- Su Lu, Han-Jia Ye, **Le Gan**, De-Chuan Zhan. [Towards Enabling Meta-Learning from Target Models](https://proceedings.neurips.cc/paper/2021/hash/43baa6762fa81bb43b39c62553b2970d-Abstract.html). In: **Advances in Neural Information Processing Systems 34 (NeurIPS'21, CCF-A)**, Virtual, 2021. [[Paper]](https://www.semanticscholar.org/reader/9c5caaf7d014d1b1d176258af15bb763d7f62d01) [[code]](https://github.com/njulus/ST)  [![](https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAtlasgan%2Fatlasgan.github.io@google-scholar-stats%2Fgs_data.json&query=$['publications']['cCD5SDoAAAAJ:LkGwnXOMwfcC']['num_citations']&labelColor=f6f6f6&color=9cf&style=flat&label=Citations)](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cCD5SDoAAAAJ&citation_for_view=cCD5SDoAAAAJ:LkGwnXOMwfcC) 
+
 
 ## Journal Publications
 
