@@ -12,7 +12,7 @@
 
 ## Journal Publications
 
-- **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Multiple Feature Kernel Sparse Representation Classifier for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/8331283), **IEEE Transactions on Geoscience and Remote Sensing**, 2018, 56(9): 5343-5356. DOI:10.1109/TGRS.2018.2814781. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TGRS.2018.2814781)
+- **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Multiple Feature Kernel Sparse Representation Classifier for Hyperspectral Imagery](https://ieeexplore.ieee.org/document/8331283), **IEEE Transactions on Geoscience and Remote Sensing**, 2018, 56(9): 5343-5356. DOI:10.1109/TGRS.2018.2814781. [[Paper]](https://github.com/atlasgan/atlasgan.github.io/blob/main/paper/MFKSRC.pdf) ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TGRS.2018.2814781)
 
 - **Le Gan**, Junshi Xia, Peijun Du, Jocelyn Chanussot, [Class-oriented Weighted Kernel Sparse Representation with Region-level Kernel for Hyperspectral Imagery Classification](https://ieeexplore.ieee.org/document/8064738), **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2018, 11(4): 1118-1130. DOI: 10.1109/JSTARS.2017.2757475. ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/JSTARS.2017.2757475)
 
