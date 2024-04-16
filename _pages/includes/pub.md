@@ -1,5 +1,7 @@
 # Preprints
+- Yichu Xu, Xin-Chun Li, **Le Gan** and De-Chuan Zhan. Weight Scope Alignment: A Frustratingly Easy Method for Model Merging
 - Shenghua Wan, Ziyuan Chen, Shuai Feng, **Le Gan**, De-Chuan Zhan. SeMOPO: Learning High-quality Model and Policy from Low-quality Offline Visual Datasets.
+- Wen-Shu Fan, Su Lu, Xin-Chun Li, De-Chuan Zhan, **Le Gan**. Revisit the Essence of Distilling Knowledge through Calibration.
 - Yucen Wang, Shenghua Wan, **Le Gan**, Shuai Feng, De-Chuan Zhan. AD3: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors. 
 - Shaowei Zhang, Dian Cheng, Shenghua Wan, Xiaolong Yin, Lu Han, Shuai Feng, **Le Gan**, De-Chuan Zhan. Efficient Online Reinforcement Learning with Cross-Modality Offline Data.
 - Kaichen Huang, Hai-Hang Sun, Shenghua Wan, Minghao Shao, Shuai Feng, **Le Gan**, De-Chuan Zhan. DIDA: Denoised Imitation Learning based on Domain Adaptation.
