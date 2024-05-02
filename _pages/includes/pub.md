@@ -3,10 +3,9 @@
 ## <font color="#2B6ADD"> Preprints </font> 
 - Kaichen Huang, Minghao Shao, Shenghua Wan, Hai-Hang Sun, Shuai Feng, **Le Gan**, De-Chuan Zhan. SENSOR: SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring.[[Paper]](https://arxiv.org/abs/2404.03386)
 - Kaichen Huang, Hai-Hang Sun, Shenghua Wan, Minghao Shao, Shuai Feng, **Le Gan**, De-Chuan Zhan. DIDA: Denoised Imitation Learning based on Domain Adaptation. [[Paper]](https://arxiv.org/abs/2404.03382)
-
 ## <font color="#2B6ADD"> Conference Publications </font> 
-- Shenghua Wan, Ziyuan Chen, Shuai Feng, **Le Gan**, De-Chuan Zhan. SeMOPO: Learning High-quality Model and Policy from Low-quality Offline Visual Datasets, In: **Proceedings of the 41th International Conference on Machine Learning (ICML'24,CCF-A)**, Vienna, Austria, 2024.
-- Yucen Wang, Shenghua Wan, **Le Gan**, Shuai Feng, De-Chuan Zhan. AD3: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors. [[Paper]](https://arxiv.org/abs/2403.09976), In: **Proceedings of the 41th International Conference on Machine Learning (ICML'24,CCF-A)**, Vienna, Austria, 2024.
+- Shenghua Wan, Ziyuan Chen, Shuai Feng, **Le Gan**, De-Chuan Zhan. SeMOPO: Learning High-quality Model and Policy from Low-quality Offline Visual Datasets, In: **Proceedings of the 41th International Conference on Machine Learning (ICML'24, CCF-A)**, Vienna, Austria, 2024.
+- Yucen Wang, Shenghua Wan, **Le Gan**, Shuai Feng, De-Chuan Zhan. AD3: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors. [[Paper]](https://arxiv.org/abs/2403.09976), In: **Proceedings of the 41th International Conference on Machine Learning (ICML'24, CCF-A)**, Vienna, Austria, 2024.
 - Shenghua Wan, Hai-Hang Sun, **Le Gan**, De-Chuan Zhan. MOSER: Learning Sensory Policy for Task-specific Viewpoint via View-conditional World Model, In: **Proceedings of the 33th International Joint Conference on Artificial Intelligence (IJCAI'24, CCF-A)**, Jeju, Korea, 2024.
 - Jia-Qi Yang, De-Chuan Zhan, **Le Gan**. [Beyond Probability Partitions: Calibrating Neural Networks with Semantic Aware Grouping](https://arxiv.org/abs/2306.04985), In: **Advances in Neural Information Processing Systems 36 (NeurIPS'23, CCF-A)**, New Orleans, LA, 2023. [[Paper]](https://www.semanticscholar.org/reader/d9d0dadc3774292500015b4e62678810bdc7e333)
 
