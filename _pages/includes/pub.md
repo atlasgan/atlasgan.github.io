@@ -1,8 +1,5 @@
 # Publications [[Google Scholar]](https://scholar.google.com/citations?user=cCD5SDoAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pid/199/0588.html) <a href='https://scholar.google.com/citations?user=cCD5SDoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAtlasgan%2Fatlasgan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
-## <font color="#2B6ADD"> Preprints </font> 
-- Kaichen Huang, Minghao Shao, Shenghua Wan, Hai-Hang Sun, Shuai Feng, **Le Gan**, De-Chuan Zhan. SENSOR: SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring.[[Paper]](https://arxiv.org/abs/2404.03386)
-- Kaichen Huang, Hai-Hang Sun, Shenghua Wan, Minghao Shao, Shuai Feng, **Le Gan**, De-Chuan Zhan. DIDA: Denoised Imitation Learning based on Domain Adaptation. [[Paper]](https://arxiv.org/abs/2404.03382)
 ## <font color="#2B6ADD"> Conference Publications </font> 
 - Yucen Wang, Shenghua Wan, **Le Gan**, Shuai Feng, De-Chuan Zhan. AD3: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors. [[Paper]](https://arxiv.org/abs/2403.09976), In: **Proceedings of the 41th International Conference on Machine Learning (ICML'24, CCF-A)**, Vienna, Austria, 2024.
 - Wen-Shu Fan, Su Lu, Xin-Chun Li, De-Chuan Zhan, **Le Gan**. Revisit the Essence of Distilling Knowledge through Calibration, In: **Proceedings of the 41th International Conference on Machine Learning (ICML'24, CCF-A)**, Vienna, Austria, 2024.
@@ -40,3 +37,6 @@
 
 - Yeting Fan, Xiaobin Jin, Xiaomin Xiang, **Le Gan**, Xuhong Yang, Zhihong Zhang, Yinkang Zhou. [Evaluating and predicting the effectiveness of farmland consolidation on improving agricultural productivity in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198171). **Plos One**, 2018, 13(6). DOI:10.1371/journal.pone.0198171. [![](https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAtlasgan%2Fatlasgan.github.io@google-scholar-stats%2Fgs_data.json&query=$['publications']['cCD5SDoAAAAJ:IjCSPb-OGe4C']['num_citations']&labelColor=f6f6f6&color=9cf&style=flat&label=Citations)](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cCD5SDoAAAAJ&citation_for_view=cCD5SDoAAAAJ:IjCSPb-OGe4C) 
 
+## <font color="#2B6ADD"> Preprints </font> 
+- Kaichen Huang, Minghao Shao, Shenghua Wan, Hai-Hang Sun, Shuai Feng, **Le Gan**, De-Chuan Zhan. SENSOR: SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring.[[Paper]](https://arxiv.org/abs/2404.03386)
+- Kaichen Huang, Hai-Hang Sun, Shenghua Wan, Minghao Shao, Shuai Feng, **Le Gan**, De-Chuan Zhan. DIDA: Denoised Imitation Learning based on Domain Adaptation. [[Paper]](https://arxiv.org/abs/2404.03382)
