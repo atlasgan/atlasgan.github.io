@@ -1,12 +1,12 @@
 # Publications [[Google Scholar]](https://scholar.google.com/citations?user=cCD5SDoAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pid/199/0588.html) <a href='https://scholar.google.com/citations?user=cCD5SDoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAtlasgan%2Fatlasgan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
 ## <font color="#2B6ADD"> Preprints </font> 
-- Yucen Wang, Shenghua Wan, **Le Gan**, Shuai Feng, De-Chuan Zhan. AD3: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors. [[Paper]](https://arxiv.org/abs/2403.09976)
 - Kaichen Huang, Minghao Shao, Shenghua Wan, Hai-Hang Sun, Shuai Feng, **Le Gan**, De-Chuan Zhan. SENSOR: SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring.[[Paper]](https://arxiv.org/abs/2404.03386)
 - Kaichen Huang, Hai-Hang Sun, Shenghua Wan, Minghao Shao, Shuai Feng, **Le Gan**, De-Chuan Zhan. DIDA: Denoised Imitation Learning based on Domain Adaptation. [[Paper]](https://arxiv.org/abs/2404.03382)
 
 ## <font color="#2B6ADD"> Conference Publications </font> 
-- Shenghua Wan, Hai-Hang Sun, **Le Gan**, De-Chuan Zhan. MOSER: Learning Sensory Policy for Task-specific Viewpoint via View-conditional World Model, **In: Proceedings of the 33th International Joint Conference on Artificial Intelligence (IJCAI'24, CCF-A)**, Jeju Island, South Korea, 2024.
+- Yucen Wang, Shenghua Wan, **Le Gan**, Shuai Feng, De-Chuan Zhan. AD3: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors. [[Paper]](https://arxiv.org/abs/2403.09976), In: **Proceedings of the 40th International Conference on Machine Learning (ICML'23)**, 2024.
+- Shenghua Wan, Hai-Hang Sun, **Le Gan**, De-Chuan Zhan. MOSER: Learning Sensory Policy for Task-specific Viewpoint via View-conditional World Model, In: **Proceedings of the 33th International Joint Conference on Artificial Intelligence (IJCAI'24, CCF-A)**, Jeju, Korea, 2024.
 - Jia-Qi Yang, De-Chuan Zhan, **Le Gan**. [Beyond Probability Partitions: Calibrating Neural Networks with Semantic Aware Grouping](https://arxiv.org/abs/2306.04985), In: **Advances in Neural Information Processing Systems 36 (NeurIPS'23, CCF-A)**, New Orleans, LA, 2023. [[Paper]](https://www.semanticscholar.org/reader/d9d0dadc3774292500015b4e62678810bdc7e333)
 
 - Xin-Chun Li , Yan-Jia Wang, **Le Gan**, De-Chuan Zhan. [Exploring Transferability Measures and Domain Selection in Cross-Domain Slot Filling](https://ieeexplore.ieee.org/document/9746890). In: **Proceedings of the 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'22, CCF-B)**, Virtual, Singapore, 2022. [[Paper]](https://github.com/atlasgan/atlasgan.github.io/blob/main/paper/ICASSP-22.pdf)
