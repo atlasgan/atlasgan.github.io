@@ -1,6 +1,6 @@
 # Publications [[Google Scholar]](https://scholar.google.com/citations?user=cCD5SDoAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pid/199/0588.html) <a href='https://scholar.google.com/citations?user=cCD5SDoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAtlasgan%2Fatlasgan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
-## <font color="#2B6ADD"> Conference Publications </font> 
+<!-- ## <font color="#2B6ADD"> Conference Publications </font> -->
 - Hai-Long Sun, Da-Wei Zhou, Hanbin Zhao, **Le Gan**, De-Chuan Zhan, Han-Jia Ye. MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning, In: **Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI’25, CCF-A)**, Pennsylvania, USA, 2025.
 - Kaichen Huang, Minghao Shao, Shenghua Wan, Hai-Hang Sun, **Le Gan**, Shuai Feng, De-Chuan Zhan. Leveraging Separated World Model for Exploration in Visually Distracted Environments, In: **Advances in Neural Information Processing Systems 37 (NeurIPS’24, CCF-A)**, Vancouver, Canada, 2024.
 - Yichu Xu, Xin-Chun Li, **Le Gan**, De-Chuan Zhan. Weight Scope Alignment: A Frustratingly Easy Method for Model Merging, In: **Proceedings of the 27th European Conference on Artificial Intelligence(ECAI'24, CCF-B)**, Santiago de Compostela, 2024.
