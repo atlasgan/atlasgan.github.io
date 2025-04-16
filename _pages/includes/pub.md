@@ -1,4 +1,5 @@
-# Publications [[Google Scholar]](https://scholar.google.com/citations?user=cCD5SDoAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pid/199/0588.html) <a href='https://scholar.google.com/citations?user=cCD5SDoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAtlasgan%2Fatlasgan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
+# Publications [[Google Scholar]](https://scholar.google.com/citations?user=cCD5SDoAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pid/199/0588.html)  
+<!--# Publications [[Google Scholar]](https://scholar.google.com/citations?user=cCD5SDoAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pid/199/0588.html) <a href='https://scholar.google.com/citations?user=cCD5SDoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAtlasgan%2Fatlasgan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> -->
 
 <!-- ## <font color="#2B6ADD"> Conference Publications </font> -->
 - Yi Shi, Rui-Xiang Li, **Le Gan**, De-Chuan Zhan, Han-Jia Ye. Generalized Conditional Similarity Learning via Semantic Matching, **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2025.
